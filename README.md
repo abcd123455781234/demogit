@@ -26,3 +26,7 @@ git add .
 git commit -m "Premier commit"
 ```
 
+## Lister tous les commits
+```bash
+git log
+```
