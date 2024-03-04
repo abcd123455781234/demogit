@@ -39,4 +39,10 @@ git diff
 
 > `git diff` affiche les lignes ajoutées, modifiées ou supprimées depuis le dernier `commit`.
 
+## Ignorer certains fichiers avec gitignore
+
+```bash
+echo $'.env\ndemo.txt' > .gitignore
+``̀̀`
+
 nickel
