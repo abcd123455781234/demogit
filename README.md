@@ -34,7 +34,9 @@ git log
 
 ## Détecter les modifications faites depuis le dernier commit
 ```bash
-git status
+git diff
 ```
+
+> `git diff` affiche les lignes ajoutées, modifiées ou supprimées depuis le dernier `commit`.
 
 nickel
