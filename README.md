@@ -50,4 +50,4 @@ echo $'.env\ndemo.txt' > .gitignore
 git status -u
 ```
 
-nickel
+> nickel
