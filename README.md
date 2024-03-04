@@ -30,3 +30,11 @@ git commit -m "Premier commit"
 ```bash
 git log
 ```
+
+
+## Détecter les modifications faites depuis le dernier commit
+```bash
+git status
+```
+
+nickel
