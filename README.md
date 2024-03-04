@@ -45,4 +45,9 @@ git diff
 echo $'.env\ndemo.txt' > .gitignore
 ```
 
+## Variante pour obtenir l'état des fichiers dans TOUS les sous-dossiers
+```bash
+git status -u
+```
+
 nickel
