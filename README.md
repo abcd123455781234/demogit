@@ -43,6 +43,6 @@ git diff
 
 ```bash
 echo $'.env\ndemo.txt' > .gitignore
-``̀̀`
+```
 
 nickel
